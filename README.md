@@ -1,7 +1,8 @@
 # 🧪 PyLabFlow Workshop
 
 > **A Local-First, Reproducible Framework for Classical ML & Deep Learning Experiments**  
-> **Publication Citation:** *Hati & Dadwhal (2025). PyTorchLabFlow: A Local-First Framework for Reproducible Deep Learning Experiments. Journal of Applied Bioanalysis (JAB), 11(S6), 538–546. [DOI: 10.53555/jab.v11si6.1940](https://doi.org/10.53555/jab.v11si6.1940)*
+> **Publication Citation:** *Hati & Dadwhal (2025). PyTorchLabFlow: A Local-First Framework for Reproducible Deep Learning Experiments. Journal of Applied Bioanalysis (JAB), 11(S6), 538–546. [DOI: 10.53555/jab.v11si6.1940](https://doi.org/10.53555/jab.v11si6.1940)*  
+> **PyLabFlow Core Framework:** [https://github.com/ExperQuick/PyLabFlow](https://github.com/ExperQuick/PyLabFlow)
 
 ---
 
