@@ -3,7 +3,8 @@
 > **All-in-One Local Setup Guide for Workshop Attendees**  
 > **Platforms Supported:** Ubuntu / Linux, macOS (Apple Silicon & Intel), Windows 10/11  
 > **Execution Mode:** 100% Offline Local Machine Execution (No Cloud or Internet Required After Initial Install)  
-> **Dedicated Conda Environment:** `ubucnplf` (Python 3.10)
+> **Dedicated Conda Environment:** `ubucnplf` (Python 3.10)  
+> **PyLabFlow Core Framework:** [https://github.com/ExperQuick/PyLabFlow](https://github.com/ExperQuick/PyLabFlow)
 
 ---
 
